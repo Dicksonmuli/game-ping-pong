@@ -1,14 +1,47 @@
-body{
-  border: 2px solid black;
+.game{
+  height: 200px;
+  width: 100%;
+   background: url('../img/pic1.jpg');
+   color: white;
 }
-.header-wrapper{
-  height: 250px;
-  width: auto;
+  /* Footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
 }
-.side-bar{
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+#footer {
+  position: ;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 280px;
+  background:
+  /* color overlay */
+    linear-gradient(
+      rgba(240, 212, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* image to overlay */
+    url(http://images.cdn.fotopedia.com/_avPIZmqM3w-7z161LH_268-hd.jpg);
+}
 
+
+/* Custom footer CSS
+-------------------------------------------------- */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
 }
-#git-url{
-  color: blue;
-  text-decoration: underline;
+.container .text-muted {
+  margin: 20px 0;
+}
+.footertext {
+  color: #ffffff;
 }
