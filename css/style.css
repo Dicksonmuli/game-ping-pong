@@ -1,0 +1,14 @@
+body{
+  border: 2px solid black;
+}
+.header-wrapper{
+  height: 250px;
+  width: auto;
+}
+.side-bar{
+
+}
+#git-url{
+  color: blue;
+  text-decoration: underline;
+}
