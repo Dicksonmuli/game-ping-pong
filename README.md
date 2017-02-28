@@ -1,4 +1,4 @@
-# Roman Numerals Translator
+# Ping-Pong Game
 
 [Click to view site](https://github.com/Dicksonmuli/game-ping-pong.git)
 
