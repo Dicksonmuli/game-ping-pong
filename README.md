@@ -1,6 +1,6 @@
 # Ping-Pong Game
 
-[Click to view site](https://github.com/Dicksonmuli/game-ping-pong.git)
+[Click to view site](https://dicksonmuli.github.io/game-ping-pong/)
 
 Author: Dickson Isaiah
 
