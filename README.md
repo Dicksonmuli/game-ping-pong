@@ -1,6 +1,24 @@
-# Ping Pong Game
+# Roman Numerals Translator
 
-Specs:
+[Click to view site](https://github.com/Dicksonmuli/game-ping-pong.git)
+
+Author: Dickson Isaiah
+
+ [dicksonm6@gmail.com](www.gmail.com)
+
+## Description
+
+Ping pong game is a game for one or more player where by you choose a number and it displays a list of number from one to your desired number. But multiple of 3 gives ping, multiples of 5 gives pong and multiples of 15 gives pingpong
+
+
+### Technologies Used
+* HTML
+* CSS
+* jscript
+* bootstrap
+* jquery
+
+## Specs:
 
 1. Function returns false when a number is not divisible by 3
 
@@ -16,12 +34,17 @@ Specs:
 
 7. Refactoring - Funtion returns true if a number is divisible by 3, 5, 15 else return false
 
+## Setup
 
+Make sure you have git installed. On the terminal, navigate to your workspace directory and run
 
+```bash
+$ git clone https://github.com/Dicksonmuli/game-ping-pong.git
+```
+## Contributing
 
+We welcome pull requests
 
+## License
 
-Visit my site on [on GitHub](https://github.com/Dicksonmuli/game-ping-pong.git) .
-
-## Description
-Ping pong game is a game for one or more player where by you choose a number and it displays a list of number from one to your desired number. But multiple of 3 gives ping, multiples of 5 gives pong and multiples of 15 gives pingpong
+This project is released under the [MIT License](./LICENSE.md) syntax-highlighted editor
